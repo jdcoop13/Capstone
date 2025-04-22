@@ -12,3 +12,5 @@ That's where SecureGuard comes in. By analyzing patterns and anomalies in transa
 Problem Statement:
 
 Analyze CC fraud data to find patterns in spending. These patterns should detect suspicious activities such as unauthorized transactions, unusual spending patterns, and fraudulent card usage to prevent financial losses for both cardholders and financial institutions.
+
+https://public.tableau.com/app/profile/john.cooper3628/viz/CreditCardFraudData_17452944703580/GeoDistributionofFraudTransactions
