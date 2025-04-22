@@ -11,4 +11,4 @@ That's where SecureGuard comes in. By analyzing patterns and anomalies in transa
 
 Problem Statement:
 
-Design a fraud detection system to identify fraudulent credit card transactions in real-time. The system should detect suspicious activities such as unauthorized transactions, unusual spending patterns, and fraudulent card usage to prevent financial losses for both cardholders and financial institutions.
+Analyze CC fraud data to find patterns in spending. These patterns should detect suspicious activities such as unauthorized transactions, unusual spending patterns, and fraudulent card usage to prevent financial losses for both cardholders and financial institutions.
